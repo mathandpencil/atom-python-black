@@ -8,6 +8,7 @@ Uses [Black](https://github.com/ambv/black) for formatting Python code.
 Make sure you have `black` installed and the correct path to binary was set in the package config.
 
 `pip install black`
+`apm install mathandpencil/atom-python-black`
 
 ### Keymap
 
